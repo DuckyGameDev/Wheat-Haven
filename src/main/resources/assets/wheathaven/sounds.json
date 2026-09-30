@@ -1,0 +1,11 @@
+{
+  "portal_travel": {
+    "subtitle": "subtitles.wheathaven.portal_travel",
+    "sounds": [
+      {
+        "name": "wheathaven:portal_travel",
+        "stream": true
+      }
+    ]
+  }
+}

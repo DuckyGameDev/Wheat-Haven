@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "wheathaven:block/haven_portal_x" },
+    "axis=z": { "model": "wheathaven:block/haven_portal_z" }
+  }
+}

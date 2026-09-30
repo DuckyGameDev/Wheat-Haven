@@ -1,0 +1,7 @@
+{
+  "type": "wheathaven:wheat_haven",
+  "generator": {
+    "type": "wheathaven:wheat_haven",
+    "biome": "wheathaven:wheat_haven"
+  }
+}

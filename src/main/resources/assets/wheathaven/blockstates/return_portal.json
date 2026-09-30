@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "wheathaven:block/return_portal_x" },
+    "axis=z": { "model": "wheathaven:block/return_portal_z" }
+  }
+}

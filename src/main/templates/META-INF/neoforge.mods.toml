@@ -36,7 +36,7 @@ displayName="${mod_name}" #mandatory
 #displayURL="https://change.me.to.your.mods.homepage.example.invalid/" #optional
 
 # A file name (in the root of the mod JAR) containing a logo for display
-#logoFile="wheatwasteland.png" #optional
+#logoFile="wheathaven.png" #optional
 
 # A text field displayed in the mod UI
 #credits="" #optional
@@ -46,7 +46,7 @@ authors="ducky"
 
 # The description text for the mod (multi line!) (#mandatory)
 description='''
-An endless agricultural wasteland covered with fully grown wheat.
+A peaceful wheat-filled dimension made for rest and quiet exploration.
 '''
 
 # The [[mixins]] block allows you to declare your mixin config to FML so that it gets loaded.
