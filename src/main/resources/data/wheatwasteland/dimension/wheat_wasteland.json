@@ -1,0 +1,7 @@
+{
+  "type": "wheatwasteland:wheat_wasteland",
+  "generator": {
+    "type": "wheatwasteland:wheat_wasteland",
+    "biome": "minecraft:plains"
+  }
+}
