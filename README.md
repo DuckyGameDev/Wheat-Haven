@@ -12,3 +12,7 @@ The mod registers `wheathaven:wheat_haven`, a chunk generator that creates a fla
 - Run dedicated server: `gradlew.bat runServer`
 
 The built mod is written to `build/libs/wheathaven-1.0.0.jar`.
+
+## License
+
+Wheat Haven is available under the MIT License. You may include it in modpacks.
